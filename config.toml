@@ -1,0 +1,9 @@
+[client]
+showErrorDetails = false
+toolbarMode = "hidden"
+
+[ui]
+hideSidebarNav = false
+
+[browser]
+gatherUsageStats = false
